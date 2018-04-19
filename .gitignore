@@ -9,13 +9,15 @@
 .settings
 .springBeans
 .sts4-cache
+target
+.idea
+.FSDProject.iml
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
-
 
 ### NetBeans ###
 /nbproject/private/
